@@ -1,0 +1,64 @@
+but, False
+good, False
+place, False
+food, True
+great, False
+very, False
+service, True
+back, False
+really, False
+nice, False
+love, False
+little, False
+ordered, False
+first, False
+much, False
+came, False
+went, False
+try, False
+staff, True
+people, False
+restaurant, True
+order, False
+never, False
+friendly, False
+pretty, False
+come, False
+chicken, False
+again, False
+vegas, False
+definitely, False
+menu, True
+better, False
+delicious, True
+experience, False
+amazing, False
+wait, False
+fresh, False
+bad, False
+price, True
+recommend, False
+worth, False
+enough, False
+customer, False
+quality, False
+taste, True
+atmosphere, False
+however, False
+probably, False
+far, False
+disappointed, False
+
+Best words :
+['food', 'service', 'staff', 'restaurant', 'menu', 'delicious', 'price', 'taste']
+
+
+{
+'service': 4.22671911
+'price': 2.97652506
+'restaurant': 2.71838277
+'menu': 3.85572435
+'taste': 0.90751989
+'food': 2.06325537
+'staff': 1.0674791
+}
